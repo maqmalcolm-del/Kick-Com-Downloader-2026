@@ -1,0 +1,5 @@
+colorama
+pywin32
+cffi
+Pillow
+keyboard
